@@ -1,0 +1,16 @@
+# dossiers ignorés
+node_modules/
+dist/
+
+# fichiers ignorés
+.DS_Store
+Thumbs.db
+
+# Extensions spécifiques
+*.log
+*.bak
+*.swp
+
+# fichiers de config à ignorer
+config.js
+.env
